@@ -19,10 +19,10 @@ const HEADER = `
 
 						<div class="header__wrap">
 							<div class="header__phone">
-								<a href="tel:3107735600"> 310 773 5600</a>
+								<a href="tel:3245040176"> 324 504 0176</a>
 								<span>Llámanos</span>
 							</div>
-							<a data-scroll href="https://wa.me/+573107735600" target="_blank" class="header__cart" style="background: #25d366;">
+							<a data-scroll href="https://wa.me/+573245040176" target="_blank" class="header__cart" style="background: #25d366;">
 								<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" aria-label="WhatsApp"
 									role="img" viewBox="0 0 512 512" fill="#000000">
 									<g id="SVGRepo_bgCarrier" stroke-width="0"></g>
