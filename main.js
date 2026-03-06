@@ -6,10 +6,10 @@ const HEADER = `
 				<div class="col-12">
 					<div class="header__content">
 						<a data-scroll href="index.html" class="header__logo">
-							<img src="img/logo.png" alt="">
+							<img src="img/logo.png" alt="Cytotec Bogotá - Inicio">
 						</a>
 
-						<nav class="header__nav">
+						<nav class="header__nav" aria-label="Navegación principal">
 							<a data-scroll href="index.html">inicio</a>
 							<a data-scroll href="products.html">Productos</a>
 							<a data-scroll href="metodo-ive.html">Método ive</a>
